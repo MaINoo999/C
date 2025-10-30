@@ -1,3 +1,0 @@
-﻿  C001.cpp
-hello.obj : error LNK2005: main이(가) C001.obj에 이미 정의되어 있습니다.
-A:\Programming\C\Day1\C-Day1\x64\Debug\C-Day1.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
